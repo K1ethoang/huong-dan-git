@@ -33,6 +33,7 @@ int main()
     print("Phep cong", phepCong(a, b));
     print("Phep tru", phepTru(a, b));
     print("Phep nhan", phepNhan(a, b));
+    // chinh sua phep nhan
     print("Phep chia", phepChia(a, b));
     return 0;
 }
