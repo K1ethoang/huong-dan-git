@@ -35,5 +35,6 @@ int main()
     print("Phep nhan", phepNhan(a, b));
     // chinh sua phep nhan
     print("Phep chia", phepChia(a, b));
+    // dang code phep chia
     return 0;
 }
